@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "237dba9a-6d95-0ad2-3ed1-8a32152e87f3": {
+      "ProjectGuid": "237dba9a-6d95-0ad2-3ed1-8a32152e87f3",
+      "DisplayName": "RealSense",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "その他のファイル",
+      "ColorIndex": -1
+    },
+    "4b9def27-3cb7-34f8-cb23-e946f7786a34": {
+      "ProjectGuid": "4b9def27-3cb7-34f8-cb23-e946f7786a34",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
